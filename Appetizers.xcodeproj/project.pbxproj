@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E828610C267CF40A00B619A7 /* Appetizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = E828610B267CF40A00B619A7 /* Appetizer.swift */; };
 		E8EAB54C267C83B300E34FA5 /* AppetizersApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8EAB54B267C83B300E34FA5 /* AppetizersApp.swift */; };
 		E8EAB54E267C83B300E34FA5 /* AppetizerTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8EAB54D267C83B300E34FA5 /* AppetizerTabView.swift */; };
 		E8EAB550267C83B500E34FA5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E8EAB54F267C83B500E34FA5 /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E828610B267CF40A00B619A7 /* Appetizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Appetizer.swift; sourceTree = "<group>"; };
 		E8EAB548267C83B300E34FA5 /* Appetizers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Appetizers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8EAB54B267C83B300E34FA5 /* AppetizersApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizersApp.swift; sourceTree = "<group>"; };
 		E8EAB54D267C83B300E34FA5 /* AppetizerTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerTabView.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				E8EAB55A267C849000E34FA5 /* AppetizerListView.swift */,
 				E8EAB55C267C84B700E34FA5 /* AccountView.swift */,
 				E8EAB55E267C851A00E34FA5 /* OrderView.swift */,
+				E828610B267CF40A00B619A7 /* Appetizer.swift */,
 			);
 			path = Appetizers;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E828610C267CF40A00B619A7 /* Appetizer.swift in Sources */,
 				E8EAB55D267C84B700E34FA5 /* AccountView.swift in Sources */,
 				E8EAB54E267C83B300E34FA5 /* AppetizerTabView.swift in Sources */,
 				E8EAB54C267C83B300E34FA5 /* AppetizersApp.swift in Sources */,
